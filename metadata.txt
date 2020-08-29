@@ -1,0 +1,6 @@
+---
+title: Beternak Puyuh
+author: Muhammad Wafa
+lang: id-ID
+cover-image: cover.png
+---
